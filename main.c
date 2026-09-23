@@ -23,6 +23,14 @@ int main() {
     return 0;
 }
 */
+/// T(n) = an + b
+/// O(n) + O(n) = O(2n) = O(n)
+/// S(n) = O(n)
+
+
+
+
+
 
 ///Palindromik sayı kontrolü
 
